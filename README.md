@@ -8,4 +8,5 @@ Curated list of learning topics to be the frontend developer that gets the job d
 
 ## Design & Styling
 
+* [CSS Basics & Demos](./design/css-basics)
 * [CSS Grids and Flexbox for Responsive Web Design](./design/grids-flexbox)
